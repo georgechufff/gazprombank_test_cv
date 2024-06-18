@@ -27,8 +27,8 @@
 * ```docker compose up```
 
 P.S. Модели, полученные в результате исследования, можно скачать по
-[этой](#https://drive.google.com/uc?export=download&id=1TLAEffY1Zzn2mfeVcrPOqpBLxtHzjKOq)
+[этой](https://drive.google.com/uc?export=download&id=1TLAEffY1Zzn2mfeVcrPOqpBLxtHzjKOq)
 и [этой](https://drive.google.com/uc?export=download&id=1Gnm3yML2fdTCLY0FyXYrIPTKvYU9vjn9) ссылке.
 Их нужно поместить в папку model внутри папки app.
 
-[Ссылка на GitHub](#https://github.com/georgechufff/gazprombank_test_cv.git)
+[Ссылка на GitHub](https://github.com/georgechufff/gazprombank_test_cv.git)
