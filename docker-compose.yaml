@@ -1,0 +1,8 @@
+version: '3.9'
+
+services:
+  server:
+    image: test_chufistov:0.0.1
+    build: app/
+    ports:
+      - '8000:8000'
